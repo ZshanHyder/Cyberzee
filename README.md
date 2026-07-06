@@ -1,2 +1,2 @@
-# Cyberzee
-🔒 Aspiring Cybersecurity Professional with a strong interest in Ethical Hacking, Network Security, AI, and System Administration. Dedicated to continuous learning, hands-on projects, and developing secure, scalable technology solutions.
+# windows-expert 
+🔒 Aspiring Cybersecurity Professional | IT Support Specialist | AI Prompt Engineer | Computer Science Student. Passionate about cybersecurity, AI, IT infrastructure, and modern web technologies. Currently building hands-on projects while expanding my knowledge in ethical hacking, network security, Python, and automation. Committed to continuous learning, solving real-world technical challenges, and creating secure, reliable, and innovative technology solutions.
